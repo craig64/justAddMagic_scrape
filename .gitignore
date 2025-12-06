@@ -1,2 +1,3 @@
-/.idea
-/jam_output
+/.gitignore
+/.idea/
+/jam_output/
